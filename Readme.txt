@@ -4,7 +4,7 @@ Project OrganizerChromosFiles es un sistema de administración de archivos dise�
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/KitLuc/OrganizerChromosFiles.git`
+1. Clona el repositorio: `git clone https://github.com/KitLuc/OrganizerChronosFiles.git`
 2. `python -m venv venv`
 3. `cd venv/Scripts/activate`
 4. `cd ../../../`
