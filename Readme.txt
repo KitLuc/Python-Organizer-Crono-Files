@@ -1,12 +1,15 @@
-# Nombre del Proyecto
+# Organizer Chronos File
 
-Breve descripción o resumen del proyecto.
+Project OrganizerChromosFiles es un sistema de administración de archivos diseñado para ayudar a los usuarios a administrar y organizar sus archivos por temporada. Con este sistema, los usuarios podrán mantener sus archivos organizados y de fácil acceso, lo que aumentará su productividad y podrán encontrar la información que necesitan rápidamente.
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
-2. Ingresa al directorio del proyecto: `cd tu_proyecto`
-3. Instala las dependencias: `npm install`
+1. Clona el repositorio: `git clone https://github.com/KitLuc/OrganizerChromosFiles.git`
+2. `python -m venv venv`
+3. `cd venv/Scripts/activate`
+4. `cd ../../../`
+5. `pip install -r requeriments.txt`
+6. `python main.py`
 
 ## Uso
 
